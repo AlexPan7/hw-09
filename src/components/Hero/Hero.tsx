@@ -1,7 +1,4 @@
-import React from "react";
 import styled from "styled-components";
-import { Container } from "../Grid";
-import { Title } from "../UI";
 
 interface HeroProps {
   backgroundСolor: string;
